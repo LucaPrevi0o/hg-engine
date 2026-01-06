@@ -889,6 +889,25 @@
 // define your custom move effects below like this
 // #define ITEM_CUSTOM_1 (MAX_BASE_ITEM_NUM + 1)
 
+#define NORMALIUM_Z (MAX_BASE_ITEM_NUM + 1)
+#define FIGHTINIUM_Z (MAX_BASE_ITEM_NUM + 2)
+#define FLYINIUM_Z (MAX_BASE_ITEM_NUM + 3)
+#define POISONIUM_Z (MAX_BASE_ITEM_NUM + 4)
+#define GROUNDIUM_Z (MAX_BASE_ITEM_NUM + 5)
+#define ROCKIUM_Z (MAX_BASE_ITEM_NUM + 6)
+#define BUGIUM_Z (MAX_BASE_ITEM_NUM + 7)
+#define GHOSTIUM_Z (MAX_BASE_ITEM_NUM + 8)
+#define STEELIUM_Z (MAX_BASE_ITEM_NUM + 9)
+#define FIREIUM_Z (MAX_BASE_ITEM_NUM + 10)
+#define WATERIUM_Z (MAX_BASE_ITEM_NUM + 11)
+#define GRASSIUM_Z (MAX_BASE_ITEM_NUM + 12)
+#define ELECTRIUM_Z (MAX_BASE_ITEM_NUM + 13)
+#define PSYCHIUM_Z (MAX_BASE_ITEM_NUM + 14)
+#define ICIUM_Z (MAX_BASE_ITEM_NUM + 15)
+#define DRAGONIUM_Z (MAX_BASE_ITEM_NUM + 16)
+#define DARKINIUM_Z (MAX_BASE_ITEM_NUM + 17)
+#define FAIRIUM_Z (MAX_BASE_ITEM_NUM + 18)
+
 
 
 #define NUM_MEGA_STONES 48 // includes the pixie plate
